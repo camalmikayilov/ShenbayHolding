@@ -1255,7 +1255,7 @@ button {
 }
 
 :root .arrow-button.scheme-2 {
-	--color-1: var(--white-color);
+	--color-1: var(--primary-color);
 }
 
 .arrow-button {
@@ -5038,11 +5038,16 @@ table {
 /* #endregion Footer */
 
 .nav-title{
-	color: #07beb8;
+	color: #3f4293;
+	font-weight: bold;
 }
 
 .introSenbay img{
 	width: 100%;
 	height: 100vh;
 	padding: 10rem 3rem 0rem 3rem ;
+}
+
+.gallery-width{
+	width: 70%!important;
 }
