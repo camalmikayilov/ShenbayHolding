@@ -1678,7 +1678,7 @@ button {
 
 .card .card-image-icon {
 	width: auto;
-	height: 50px;
+	height: 100px;
 	margin-right: auto;
 	display: block;
 	fill: var(--color);
