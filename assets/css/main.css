@@ -5052,6 +5052,10 @@ table {
 	width: 70%!important;
 }
 
+.gallery-width:hover{
+	color: #6917d0;
+}
+
 @media (max-width: 575px) {
 	.mobile-about--item{
 		width: 50%;
