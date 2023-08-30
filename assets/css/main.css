@@ -5051,3 +5051,18 @@ table {
 .gallery-width{
 	width: 70%!important;
 }
+
+@media (max-width: 575px) {
+	.mobile-about--item{
+		width: 50%;
+	}
+	
+	.introSenbay img{
+		object-fit: contain;
+		height: 80vh;
+	}
+
+	.gallery-width{
+		font-size: 0.8rem;
+	}
+}
