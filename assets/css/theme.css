@@ -26,6 +26,10 @@ Support : codings.dev
 
 :root {
 
+	/* Gradient */
+	--primary-colorgra1: #3f4293;
+	--primary-colorgra2: #3d3d3b;
+
 	/* Primary */
 	--primary-color: #3f4293;
 	--primary-15-color: #07beb826;

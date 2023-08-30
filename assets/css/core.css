@@ -749,8 +749,8 @@ img, svg {
 :root .bg-gradient.scheme-1,
 :root .border-gradient.scheme-1,
 :root .text-gradient.scheme-1 {
-	--color-1: var(--primary-color);
-	--color-2: var(--secondary-color);
+	--color-1: var(--primary-colorgra1);
+	--color-2: var(--primary-colorgra2);
 }
 
 :root .gradient.scheme-1.invert-gradient,
